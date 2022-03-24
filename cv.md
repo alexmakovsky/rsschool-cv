@@ -32,3 +32,12 @@ list.forEach(i => console.log(i))
 
 * JavaScript Manual on [learn.javascript.ru](learn.javascript.ru) (in progress)
 * RS Schools Course «JavaScript/Front-end. Stage 0»
+
+## Education
+***
+ * **University**: BREST STATE TECHNICAL UNIVERSITY, Faculty of Mechanical Engineering, engineer.
+ * **Courses**: IT-Academy, Web application development using JS.
+
+ ## English
+ ***
+**A2** Elementary
