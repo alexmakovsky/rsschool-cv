@@ -18,3 +18,17 @@ I have been working in casino for 6 years. During this time, I have achieved a l
 * CSS
 * JS (basic)
 * Git
+
+## Code example
+***
+
+```
+const list  = ['apple', 'lemon', 'cherry']
+list.forEach(i => console.log(i))
+```
+
+## Experience
+***
+
+* JavaScript Manual on [learn.javascript.ru](learn.javascript.ru) (in progress)
+* RS Schools Course «JavaScript/Front-end. Stage 0»
